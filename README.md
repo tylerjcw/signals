@@ -1,4 +1,4 @@
-![Signals Logo](http://i.imgur.com/1QUqqxc.png "Signals Logo")
+![Signals Logo](./signals.png "Signals Logo")
 
 ## Description
 
@@ -27,11 +27,13 @@ signals.
 ## Signal Look & Feel
 
 * Mathematics = Blue Background  
-![Blue Background](http://i.imgur.com/RDF0dY0.png "Blue Background")
+![Blue Background](./graphics/icons/colors/5.png "Blue Background")
 * Generic Power Signals = Yellow Background  
-![Yellow Background](http://i.imgur.com/XESyBO2.png "Yellow Background")
+![Yellow Background](./graphics/icons/colors/8.png "Yellow Background")
 * Directions = Red Background  
-![Red Background](http://i.imgur.com/9pUOdZA.png "Red Background")
+![Red Background](./graphics/icons/colors/3.png "Red Background")
+* Smarter Trains signals = Purple Background  
+![Purple Background](./graphics/icons/colors/4.png "Purple Background")
 
 * Stopping Signal (Reactors), if hooked up to a light, will emit a flat yellow color
 to the light
