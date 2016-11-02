@@ -1,7 +1,3 @@
-function rgb( R, G, B )
-  return { r = R, g = G, b = B }
-end
-
 --Controls the background graphics for the signal icons--
 DIRECTION_BACKGROUND = "__Signals__/graphics/icons/colors/3.png"
 TRAIN_BACKGROUND     = "__Signals__/graphics/icons/colors/4.png"
@@ -39,10 +35,9 @@ power signals my mod adds, and
 for the signals from "Reactors".
 r, g, b are values from
 0 to 255, inclusive. ]]--
-EMERGENCY_SHUTDOWN_COLOR = rgb(238, 0, 74) -- Flat Red    
+EMERGENCY_SHUTDOWN_COLOR = { r = 255, g = 51 , b = 51  } -- Flat Red    
 REACTOR_STOPPING_COLOR   = { r = 255, g = 255, b = 128 } -- Flat Yellow
 RESET_SIGNAL_COLOR       = { r = 255, g = 133, b = 81  } -- Flat Orange
-
 
 --[[
 "More Signal Color" color config
