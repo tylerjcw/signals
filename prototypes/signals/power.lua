@@ -138,6 +138,16 @@ function overrideReactorsSignals()
     stopping.subgroup = "power"
     stopping.order = "g[power]-g[stopping]"
 
+--TARGET SIGNAL
+target = data.raw["virtual-signal"]["signal-reactor-target"]
+target.icons =
+    {
+      {icon = "__base__/graphics/icons/signal/shape_square.png"},
+      {icon = "__Reactors__/graphics/icons/signal/throttle.png"}
+    }
+    target.subgroup = "power"
+    target.order = "g[power]-j[target]"
+
   --ADDING CUSTOM SIGNALS (CHARGE / RESET / CLOCK)
   data:extend({
     {
