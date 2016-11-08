@@ -65,6 +65,10 @@ signal is representing
 
 ---
 ## Version History
+### 1.1.14
+
+* Updated mod to support Reactors version 1.5.0, Reactor Target Output signal now supported
+
 ### 1.0.14
 
 * Complete rewrite
