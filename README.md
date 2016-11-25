@@ -60,6 +60,10 @@ signal is representing
 
 ---
 ## Version History
+### 1.2.14
+
+* Changed default game font back to English
+
 ### 1.1.14
 
 * Updated mod to support Reactors version 1.5.0, Reactor Target Output signal now supported
