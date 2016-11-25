@@ -43,11 +43,6 @@ to the light
 (See third screenshot for color comparisons)
 
 ---
-## Aditional Information
-I still plan on adding more to this mod, but do not know how fast that can happen, 
-as I am usually quite busy.
-
----
 ## To be worked on
 
 * Support for more mods that add custom signals.
