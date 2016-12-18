@@ -62,7 +62,7 @@ signal is representing
 ## Version History
 ### 1.2.15
 
-* Updated optional mod dependancy for "Reactors" to 1.5.1
+* Updated optional mod dependancy for "Reactors" to 1.5.1, All signals from "Reactors" should be supported.
 
 ### 1.2.14
 
