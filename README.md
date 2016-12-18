@@ -60,6 +60,10 @@ signal is representing
 
 ---
 ## Version History
+### 1.2.15
+
+* Updated optional mod dependancy for "Reactors" to 1.5.1
+
 ### 1.2.14
 
 * Changed default game font back to English
